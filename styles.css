@@ -1,0 +1,27 @@
+/****tag selectors****/
+body {
+  font-family: cursive;
+  background-color: #035397;
+  color: lightpink;
+  margin: 20px;
+  text-align:center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: deeppink;
+  border-width: 6px;
+  height: 2px;
+  width: 5%;
+}
+
+h4 {
+  color: #B9F8D3;
+}
+
+/****class selectors****/
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
